@@ -1,0 +1,9 @@
+if game.PlaceId == 5233782396 then
+   
+   game.Players.LocalPlayer:Kick("Phát Hiện Hack Nghi Ngờ Được viết bởi Tran Dong A")
+   
+end
+
+wait(2)
+
+while true do end
